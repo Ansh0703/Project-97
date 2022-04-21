@@ -1,0 +1,18 @@
+.background {
+    background-image: url("Leaf-Frame-Border-PNG-Pic.png");
+    background-position: center;
+    background-size: cover;
+    padding:225px;
+    background-repeat: no-repeat;
+    text-align:center;
+}
+
+.login{
+    background:rgb(113, 141, 118);
+	padding:10px;
+    float: none;
+	border-radius: 15px;
+    width:700px;
+    height:auto;
+    font-size:20px;
+}
